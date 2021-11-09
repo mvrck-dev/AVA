@@ -142,4 +142,5 @@ for filename in os.listdir('./cogs'):
 
 
 
-client.run('ODY1MTI1NTEwODI0NzIyNDQy.YO_c6w.uJtchskutoT3rxxfMPBxY9mrFXI')
+client.run('----')
+#whoops accidentally revealed the token
