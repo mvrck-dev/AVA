@@ -1,4 +1,4 @@
-<h1 align="center">This is ΛVΛ</h1>
+<h1 align="center">This is ΛVΛ (Abandoned project)</h1>
 <h3 align="center">ΛVΛ was a discord bot and it wont be developed further.</h3>
 
 - This bot currently features **Moderation and Fun modules.**
