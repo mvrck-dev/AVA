@@ -1,5 +1,5 @@
 <h1 align="center">This is ΛVΛ</h1>
-<h3 align="center">ΛVΛ is an intuitive bot for discord but is in development.</h3>
+<h3 align="center">ΛVΛ was a discord bot and it wont be developed further.</h3>
 
 - This bot currently features **Moderation and Fun modules.**
 
